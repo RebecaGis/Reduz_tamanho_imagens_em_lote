@@ -4,7 +4,7 @@
 - Redimensiona imagens em massa
 - Ajusta qualidade para web
 - Interface amigável com Tkinter
-- Gera um executável (.exe) para qualquer Windows
+
   
 🔹 Tecnologias usadas:
 - Python + Pillow (PIL)
